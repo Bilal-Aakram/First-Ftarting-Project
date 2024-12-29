@@ -5,6 +5,10 @@ import TabButton from "./components/TabButton.jsx";
 import { useState } from "react";
 import { EXAMPLES } from "./data.js";
 
+function test() {
+  console.log("test");
+}
+
 function App() {
   const [selectedTopic, setSelectedTopic] = useState();
 
