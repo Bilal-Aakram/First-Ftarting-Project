@@ -79,4 +79,6 @@ function App() {
   );
 }
 
+function test2(){
+}
 export default App;
